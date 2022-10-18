@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **Learning in coding in general.**
 
-- 👨‍💻 All of my projects are available at [here on my GitHub!](here on my GitHub!)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kev_pilch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kev_pilch" height="30" width="40" /></a>
