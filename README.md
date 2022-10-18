@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A hungry self learner of Coding</h3>
+<h3 align="center">An avid self learner of Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-pilch&label=Profile%20views&color=0e75b6&style=flat" alt="kev-pilch" /> </p>
 
