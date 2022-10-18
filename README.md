@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Learning in coding in general.**
 
-- 👨‍💻 All of my projects are available here on my GitHub!
+- 👨‍💻 All of my projects are available at [here on my GitHub!](here on my GitHub!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
