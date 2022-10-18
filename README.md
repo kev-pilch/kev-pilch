@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Any and all coding. A mentor would be nice to have.**
 
-- 🤝 I’m looking for help with **Learning in coding in general.**
+- 🤝 I’m looking for help with **Learning coding in general.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
